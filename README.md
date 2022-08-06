@@ -67,3 +67,17 @@ Please see the [PhysioNet/CinC Challenge 2021 webpage](https://physionetchalleng
 * [Evaluation code for the PhysioNet/CinC Challenge 2021](https://github.com/physionetchallenges/evaluation-2021) 
 * [2021 Challenge Frequently Asked Questions (FAQ)](https://physionetchallenges.org/2021/faq/) 
 * [Frequently Asked Questions (FAQ)](https://physionetchallenges.org/faq/) 
+
+## Citation
+
+If you use our code, please cite the paper using the following bibtex reference:
+
+    @INPROCEEDINGS{9662725,
+    author={Osnabrugge, Niels and Keresztesi, Kata and Rustemeyer, Felix and Kaparakis, Christos and Battipaglia, Francesca and Bonizzi, Pietro and Karel, Jo&#x00EB;l},
+    booktitle={2021 Computing in Cardiology (CinC)}, 
+    title={Multi-Label Classification on 12, 6, 4, 3 and 2 Lead Electrocardiography Signals Using Convolutional Recurrent Neural Networks}, 
+    year={2021},
+    volume={48},
+    number={},
+    pages={1-4},
+    doi={10.23919/CinC53138.2021.9662725}}
