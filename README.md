@@ -4,6 +4,13 @@
 
 The official code for the following paper [Multi-Label Classification on 12, 6, 4, 3 and 2 Lead Electrocardiography Signals Using Convolutional Recurrent Neural Networks](https://ieeexplore.ieee.org/document/9662725)
 
+## Authors
+
+- [Niels Osnabrugge](https://github.com/NielsOsnabrugge)
+- Kata Keresztesi
+- [Felix Rustemeyer](https://github.com/fruste)
+- [Christos Kaparakis](https://github.com/ckaparakis)
+- [Francesca Battipaglia](https://github.com/FrancescaStud)
 
 ## Summary
 
