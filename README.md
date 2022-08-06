@@ -5,7 +5,7 @@
 The official code for the following paper [Multi-Label Classification on 12, 6, 4, 3 and 2 Lead Electrocardiography Signals Using Convolutional Recurrent Neural Networks](https://ieeexplore.ieee.org/document/9662725)
 
 
-## Abstract
+## Summary
 
 We've created a Convolutional Recurrent Neural Network (CRNN) to identify cardiac abnormalities in 12, 6, 4, 3 and 2 lead ECG data. Multi-label classification with CRNNs relies on effective data pre-processing, model architecture and hyperparameter tuning. ECG signals were first pre-processed and then zero-padded or clipped to have an equal duration of 10 seconds). 
 
